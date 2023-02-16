@@ -259,7 +259,8 @@ $tooltips = array("tz" 	    => array("name" 				=> _("Timezone definition name")
 				     "nextaftercmd"			=> _("Skip to the next message after save/delete."),
 				     "odbcstorage"			=> _("The value of odbcstorage is the database connection configured in res_odbc.conf."),
 				     "odbctable"			=> _("The default table for ODBC Voicemail storage is voicemessages."),
-				     "operator"				=> _("Operator break. Allow sender to hit 0 before/after/during leaving a Voicemail to reach an operator [ON by default]"),
+				     "operator"				=> _("Operator break. Allow sender to hit 0 before/after/during leaving a Voicemail to reach an
+				     [ON by default]"),
 				     "pagerbody"			=> _("Body of message sent to pager."),
 				     "pagerfromstring"			=> _("From: string sent to pager."),
 				     "pagersubject"			=> _("Subject sent to pager."),
@@ -296,7 +297,7 @@ $tooltips = array("tz" 	    => array("name" 				=> _("Timezone definition name")
 				     "dialout" 				=> _("Context to dial out from [option 4 from the advanced menu] if not listed, dialing out will not be permitted."),
 				     "email"				=> _("The email address that Voicemails are sent to. Multiple e-mail addresses have to be comma separated without spaces (e.g.: first@domain.tld,second@domain.tld,third@domain.tld) "),
 				     "envelope" 			=> _("Turn on/off envelope playback before message playback. [ON by default] This does NOT affect option 3,3 from the advanced options menu."),
-				     "exitcontext" 			=> _("Context to check for handling * or 0 calls to operator. \"Operator Context\""),
+				     "exitcontext" 			=> _("Context to check for handling * or 0 calls to operator. \"Operator Context\"500"),
 				     "forcegreetings" 			=> _("Force new user to record greetings (the same as forcename, except for recording greetings).  The default is \"no\"."),
 				     "fullname"				=> _("Name of Voicemail account"),
 				     "hidefromdir"			=> _("Hide this mailbox from the directory produced by app_directory. The default is \"no\"."),
