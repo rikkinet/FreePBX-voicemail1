@@ -28,12 +28,12 @@ class Vmx {
 					'description' => _('VMX play_instructions, Use yes: no'),
 				),
 				'vmx_option_0_number' => array(
-					'description' => _('Leave blank for go to operator'),
+					'description' => _('500'),
 				),
 				'vmx_option_1_number' => array(
 					'description' => _('To send to followme use "FMextension"'),
 				),'vmx_option_2_number' => array(
-					'description' => _('Destination number'),
+					'description' => _('500'),
 				),
 			);
 			return $headers;
